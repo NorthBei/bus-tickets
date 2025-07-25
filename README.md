@@ -1,7 +1,7 @@
 # BusTickets
 
 ### Demo
-[Click Here](https://northbei.github.io/BusTickets/dist/).
+[Click Here](https://northbei.github.io/bus-tickets/dist/).
 
 ## Project setup
 ```
